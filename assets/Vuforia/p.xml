@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="robusta" size="1.000000 0.776471" />
+    <ImageTarget name="kopi" size="1.000000 1.489130" />
+  </Tracking>
+</QCARConfig>
